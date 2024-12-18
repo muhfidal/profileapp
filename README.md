@@ -1,16 +1,47 @@
-# my_profile_app
+# MyProfileApp
 
-A new Flutter project.
+MyProfileApp adalah aplikasi Flutter yang menampilkan profil pribadi dengan berbagai informasi seperti pendidikan, pengalaman kerja, hobi, keterampilan, kontak, portofolio, dan sertifikat.
 
-## Getting Started
+## Fitur
 
-This project is a starting point for a Flutter application.
+- **Tentang Saya**: Menampilkan informasi dasar tentang pengguna.
+- **Pendidikan**: Daftar institusi pendidikan dan program yang diikuti.
+- **Pengalaman Kerja**: Daftar pengalaman kerja dengan deskripsi singkat.
+- **Hobi**: Daftar hobi yang dimiliki pengguna.
+- **Keterampilan**: Daftar keterampilan yang dikuasai.
+- **Kontak**: Informasi kontak dan tautan media sosial.
+- **Portofolio**: Daftar proyek atau karya yang telah dikerjakan.
+- **Sertifikat**: Daftar sertifikat yang dimiliki.
 
-A few resources to get you started if this is your first Flutter project:
+## Instalasi
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone repositori ini**:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   ```
+2. **Navigasi ke direktori proyek**:
+   ```bash
+   cd your-repo
+   ```
+3. **Jalankan aplikasi**:
+   ```bash
+   flutter run
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Struktur Proyek
+
+- `lib/main.dart`: Titik masuk utama aplikasi.
+- `lib/screens/`: Berisi semua layar aplikasi seperti `AboutMeScreen`, `EducationScreen`, dll.
+- `assets/`: Berisi aset seperti gambar profil.
+
+## Kontribusi
+
+Kontribusi sangat diterima! Silakan buka issue atau pull request untuk perbaikan atau fitur baru.
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+
+## Kontak
+
+Untuk pertanyaan lebih lanjut, silakan hubungi saya di [mufidalmunawar12@gmail.com](mailto:mufidalmunawar12@gmail.com).
